@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/jules.lefrancq-lumiere/Workspace"
+		}
+	],
+	"settings": {
+		"LSP": {
+			"LSP-pyright": {
+				"settings": {
+					"python": {
+						"pythonPath": "/opt/anaconda3/bin/python3"
+					}
+				}
+			}
+		}
+	}
+}
